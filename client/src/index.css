@@ -33,7 +33,7 @@ main{
 }
 .product img{
   width: 100%;
-  max-width: 400px;
+  max-height: 400px;
 }
 
 .product-info{
