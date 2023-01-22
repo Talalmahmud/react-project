@@ -1,0 +1,23 @@
+.card{
+    display: inline-block;
+    margin: 8px;
+    padding: 8px;
+    background-color: aqua;
+    height: 350px;
+    width: 300px;    
+}
+
+.card img{
+    height: 150px;
+    width: 200px;
+}
+
+.card p{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+
+.card p span{
+    font-size: 13px
+}

@@ -1,0 +1,8 @@
+input{
+    margin-top: 14px;
+    font-size: 15px;
+    width: 20%;
+    padding: 4px 0px 1px 4px;
+    border-radius: 10px;
+    cursor:grabbing;
+}
