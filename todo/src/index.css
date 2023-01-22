@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(106, 62, 148);
+}
+
+.todos{
+    display: flex;
+    margin: 10px 30% 4px 30%;
+    justify-content: space-between;
+    align-items: center;
+    background-color: green;
+    padding: 0.2rem 2rem  0.2rem 2rem;
+    border-radius: 10px;
+    border-bottom-right-radius: 0;
+}
+
+
+button{
+    margin-left: 10px;
+}
+.edit{
+    color: orange;
+    padding: 2px;
+
+
+}
+.delete{
+    color: red;
+    padding: 2px;
+
+}
